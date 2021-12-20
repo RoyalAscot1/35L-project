@@ -6,7 +6,7 @@ Bruin Bytes is a web app that tracks the status of your favorite UCLA dining hal
 
 1. Download node.js from https://nodejs.org/en/ and install to your machine
 
-2. Clone this project using `git clone https://github.com/ArushRam/35L-project.git`
+2. Clone this project using `https://github.com/RoyalAscot1/Bruin-Bytes`
 
 3. Install the required dependencies with `npm install` inside both the 'api' and 'client' folder
 

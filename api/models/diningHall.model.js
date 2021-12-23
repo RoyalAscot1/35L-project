@@ -19,7 +19,8 @@ const diningHallSchema = new Schema({
     },
     numRatings: Number,
     reviews: [{username: String, rating: Number, time: String, body: String}],
-    menu: [{dishName: String, calories: Number, tags:[String]}]
+    menu: [{dishName: String, calories: Number, tags:[String]}],
+    scrapeRoute: String
 });
 
 const DiningHall = mongoose.model('DiningHall', diningHallSchema);
